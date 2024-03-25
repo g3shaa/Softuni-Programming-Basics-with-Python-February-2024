@@ -10,3 +10,6 @@ The course "Programming Basics" teaches basic programming skills, required for a
 - Working with complex loops (nested for and while loops)
 # Certificate
 <p>
+![image](https://github.com/georgiaprahamov/Softuni-Programming-Basics-with-Python-February-2024/assets/64840882/6e08a45d-c8d8-485d-9a47-86b8b1f5a469)
+
+
